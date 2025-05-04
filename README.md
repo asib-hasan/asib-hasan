@@ -15,7 +15,7 @@
 
 - ⚔️ Solved **1000+ problems** and participated in **ICPC Dhaka Regional, IUPCS**, and over **100 online contests**
 
-- 📫 Reach me at: **asib.csecu@gmail.com**
+- 📫 Reach me at: **asib.uucse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,6 +56,15 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asib-hasan&show_icons=true&locale=en&layout=compact" alt="asib-hasan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asib-hasan&show_icons=true&locale=en" alt="asib-hasan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asib-hasan&show_icons=true&locale=en&layout=compact" alt="asib-hasan" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asib-hasan&show_icons=true&locale=en" alt="asib-hasan" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asib-hasan&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
