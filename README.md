@@ -22,12 +22,6 @@
   <a href="https://linkedin.com/in/asib-hasan" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="asib-hasan" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/reborn--" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/asib_hasan" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
