@@ -62,3 +62,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=asib-hasan&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
+
+<h3 align="left">LeetCode Stats:</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/asib_hasan?ext=contest" alt="LeetCode Stats" />
+</p>
