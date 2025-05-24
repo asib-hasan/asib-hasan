@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently exploring **modern JavaScript frameworks** and backend optimization
 
-- 👨‍💻 Codeforces: [reborn--](https://codeforces.com/profile/404NotFound_) | LeetCode: [asib_hasan](https://leetcode.com/asib_hasan)
-
 - ⚔️ Solved **1000+ problems** and participated in **ICPC Dhaka Regional, IUPCS**, and over **100 online contests**
 
 - 📫 Reach me at: **asib.uucse@gmail.com**
