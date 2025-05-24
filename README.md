@@ -72,6 +72,6 @@
 <h3 align="left">Codeforces Stats:</h3>
 
 <p align="center">
-  <img src="https://cf.leed.at?id=reborn--" alt="Codeforces Stats" />
+  <img src="https://cf-stats-liard.vercel.app/api?username=reborn--&theme=dark" alt="Codeforces Stats" />
 </p>
 
