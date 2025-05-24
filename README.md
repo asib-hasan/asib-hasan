@@ -23,9 +23,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="asib-hasan" height="30" width="40" />
   </a>
 </p>
-
 <h2 align='center'><i>Languages and Tools</i></h2>
-
 <table width="100%">
 <tr>
     <td align='center' width="190">
@@ -35,7 +33,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
     </td>
     <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60" alt="Laravel"/>
+        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="60" alt="Laravel"/>
     </td>
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
@@ -62,7 +60,6 @@
     </td>
 </tr>
 </table>
-
 
 <h3 align="left">GitHub Stats:</h3>
 
