@@ -68,3 +68,10 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/asib_hasan?ext=contest" alt="LeetCode Stats" />
 </p>
+
+<h3 align="left">Codeforces Stats:</h3>
+
+<p align="center">
+  <img src="https://cf.leed.at?id=reborn--" alt="Codeforces Stats" />
+</p>
+
