@@ -72,6 +72,6 @@
 <h3 align="left">Codeforces Stats:</h3>
 
 <p align="center">
-  <img src="https://cf-stats-liard.vercel.app/api?username=reborn--&theme=dark" alt="Codeforces Stats" />
+  <img src="https://img.shields.io/badge/solved-000-blue?style=flat-square" id="cf_solved_badge" />
 </p>
 
