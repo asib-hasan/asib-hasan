@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently exploring **modern JavaScript frameworks** and backend optimization
 
-- 👨‍💻 Codeforces: [reborn--](https://codeforces.com/profile/reborn--) | LeetCode: [asib_hasan](https://leetcode.com/asib_hasan)
+- 👨‍💻 Codeforces: [reborn--](https://codeforces.com/profile/404NotFound_) | LeetCode: [asib_hasan](https://leetcode.com/asib_hasan)
 
 - ⚔️ Solved **1000+ problems** and participated in **ICPC Dhaka Regional, IUPCS**, and over **100 online contests**
 
@@ -84,6 +84,7 @@
 <h3 align="left">Codeforces Stats:</h3>
 
 <p align="center">
+  <img src="https://cf.leed.at?id=404NotFound_" alt="Codeforces Stats" />
   <img src="https://img.shields.io/badge/solved-500+-blue?style=flat-square" id="cf_solved_badge" />
 </p>
 
