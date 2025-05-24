@@ -35,16 +35,19 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
     </td>
     <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60" alt="Laravel"/>
+    </td>
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="60" alt="Nuxt.js"/>
     </td>
+</tr>
+<tr>
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/>
     </td>
-</tr>
-<tr>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" alt="GitHub"/>
     </td>
@@ -59,6 +62,7 @@
     </td>
 </tr>
 </table>
+
 
 <h3 align="left">GitHub Stats:</h3>
 
