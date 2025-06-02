@@ -39,8 +39,6 @@
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" alt="Next.js"/>
     </td>
-
-    </td>
 </tr>
 <tr>
     <td align='center' width="190">
