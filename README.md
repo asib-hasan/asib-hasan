@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=asib-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="asib-hasan" />
 </p>
 
-- 💻 Skilled in **PHP, Laravel, Vue.js, Nuxt.js, and C++**
+- 💻 Skilled in **PHP, Laravel, React.js, Next.js, and C++**
 
 - 🔭 Currently working as a **Junior Software Engineer** at **Uttara University**
 
