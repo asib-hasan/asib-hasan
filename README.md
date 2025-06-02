@@ -34,10 +34,12 @@
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="60" alt="Laravel"/>
     </td>
     <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="60" alt="Nuxt.js"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" alt="Next.js"/>
+    </td>
+
     </td>
 </tr>
 <tr>
