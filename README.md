@@ -61,17 +61,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asib-hasan&theme=default" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asib-hasan&show_icons=true&locale=en" alt="asib-hasan" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=asib-hasan&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
 
 <h3 align="left">LeetCode Stats:</h3>
 
