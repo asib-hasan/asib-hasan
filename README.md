@@ -70,8 +70,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asib-hasan&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asib-hasan&theme=default" alt="GitHub Streak" />
 </p>
+
 
 
 
