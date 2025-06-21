@@ -62,7 +62,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-asib-hasan.vercel.app/api/top-langs/?username=asib-hasan&layout=compact&langs_count=8&theme=default" alt="asib-hasan" />
+  <img src="https://streak-stats.demolab.com/?user=asib-hasan&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
