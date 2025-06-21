@@ -61,6 +61,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asib-hasan&theme=default" alt="Top Langs Card"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asib-hasan&show_icons=true&locale=en" alt="asib-hasan" />
