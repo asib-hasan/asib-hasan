@@ -91,7 +91,7 @@
     <td align="right">
       <h3>🌌 Codeforces</h3>
       <div align="center">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=asib_hasan" alt="Codeforces Stats">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reborn--" alt="Codeforces Stats">
       </div>
     </td>
   </tr>
