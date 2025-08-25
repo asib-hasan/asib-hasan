@@ -77,5 +77,5 @@
 <h3 align="left">Codeforces Stats:</h3>
 
 <div align="center">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=TheLastBattle" alt="Codeforces Stats">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reborn--" alt="Codeforces Stats">
 </div>
