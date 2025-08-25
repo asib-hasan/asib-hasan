@@ -76,6 +76,6 @@
 
 <h3 align="left">Codeforces Stats:</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/solved-500+-blue?style=flat-square" id="cf_solved_badge" />
-</p>
+<div align="center">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=TheLastBattle" alt="Codeforces Stats">
+</div>
