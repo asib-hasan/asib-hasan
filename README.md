@@ -68,11 +68,6 @@
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=asib-hasan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asib-hasan&theme=default" alt="GitHub Streak" />
-</p>
-
 <h3 align="left">LeetCode Stats:</h3>
 
 <p align="center">
