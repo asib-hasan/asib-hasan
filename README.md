@@ -39,6 +39,7 @@
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
     </td>
+  
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" alt="Next.js"/>
     </td>
