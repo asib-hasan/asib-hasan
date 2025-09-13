@@ -23,7 +23,6 @@
  <a href="https://asib-hasan.com" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="asib-hasan.com" height="30" width="40" />
     </a>
-
 </p>
 <h2 align='center'><i>Languages and Tools</i></h2>
 <table width="100%">
@@ -31,7 +30,6 @@
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
     </td>
-  
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
     </td>
@@ -44,7 +42,6 @@
     <td align='center' width="190">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" alt="Next.js"/>
     </td>
-    
 </tr>
 <tr>
     <td align='center' width="190">
