@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=asib-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="asib-hasan" />
 </p>
 
-- 💻 Skilled in **PHP, Laravel, React.js, Next.js, and C++**
-
-- 🔭 Currently working as a **Junior Software Engineer** at **Uttara University**
+- 💻 Skilled in **PHP, Laravel, Vue.js, Nuxt.js, and C++**
 
 - 🌱 I’m currently exploring **modern JavaScript frameworks** and backend optimization
 
@@ -18,13 +16,17 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/asib-hasan" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="asib-hasan" height="30" width="40" /> </a>
+  <a href="https://linkedin.com/in/asib-hasan" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="asib-hasan" height="30" width="40" />
+  </a>
   
- <a href="https://asib-hasan.com" target="blank">
+  <a href="https://asib-hasan.com" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="asib-hasan.com" height="30" width="40" />
-    </a>
+  </a>
 </p>
+
 <h2 align='center'><i>Languages and Tools</i></h2>
+
 <table width="100%">
 <tr>
     <td align='center' width="190">
@@ -37,12 +39,13 @@
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="60" alt="Laravel"/>
     </td>
     <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
     </td>
     <td align='center' width="190">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" alt="Next.js"/>
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="60" alt="Nuxt.js"/>
     </td>
 </tr>
+
 <tr>
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/>
@@ -82,4 +85,3 @@
 <div align="center">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reborn--" alt="Codeforces Stats">
 </div>
-
