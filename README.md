@@ -80,8 +80,4 @@
   <img src="https://leetcard.jacoblin.cool/asib_hasan?ext=contest" alt="LeetCode Stats" />
 </p>
 
-<h3 align="left">Codeforces Stats:</h3>
 
-<div align="center">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reborn--" alt="Codeforces Stats">
-</div>
