@@ -7,6 +7,8 @@
 
 - 💻 Skilled in **PHP, Laravel, Vue.js, Nuxt.js, and C++**
 
+
+
 - 🌱 I’m currently exploring **modern JavaScript frameworks** and backend optimization
 
 
